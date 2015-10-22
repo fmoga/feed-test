@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://essentialcomm.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Look &amp; Sound of Leadership</title>
+		<pubDate>Wed, 30 Sep 2015 22:30:00 +0000</pubDate>
+		<lastBuildDate>Fri, 02 Oct 2015 06:41:07 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://essentialcomm.com/podcast/</link>
+		<language>en-us</language>
+		<copyright><![CDATA[© 2014 Essential Communications]]></copyright>
+		<docs>http://essentialcomm.com/podcast/</docs>
+		<managingEditor>podcasts@essentialcomm.com (podcasts@essentialcomm.com)</managingEditor>
+		<itunes:summary><![CDATA[An ongoing series of Executive Coaching Tips designed to help you be perceived in the workplace the way you want to be perceived.]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/2/c/6/4/2c64fbac7b6ff336/EC-podcast-cvr-1B.jpg</url>
+			<title>The Look &amp; Sound of Leadership</title>
+			<link><![CDATA[http://essentialcomm.com/podcast/]]></link>
+		</image>
+		<itunes:author>Essential Communications - Tom Henschel</itunes:author>
+	<itunes:category text="Business"/>
+	<itunes:category text="Business">
+		<itunes:category text="Careers"/>
+	</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/2/c/6/4/2c64fbac7b6ff336/EC-podcast-cvr-1B.jpg" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Tom Henschel]]></itunes:name>
+			<itunes:email>podcasts@essentialcomm.com</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[An ongoing series of Executive Coaching Tips designed to help you be perceived in the workplace the way you want to be perceived.]]></description>
+		<itunes:subtitle><![CDATA[An ongoing series of Executive Coaching Tips]]></itunes:subtitle>
+		<item>
+			<title>Pursuing A Promotion</title>
+			<pubDate>Thu, 04 Sep 2014 00:19:15 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[62612253475931a1ef630e5f51e4d4fd]]></guid>
+			<link><![CDATA[http://essentialcomm.com/podcast/pursuing-a-promotion/]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/c/6/4/2c64fbac7b6ff336/EC-podcast-cvr-1B.jpg" />
+			<description><![CDATA[<p>We'd all like to be given a promotion merely because it's our turn. But earning a promotion is actually a job in itself. Mastering the four factors described here will accelerate the process.</p>]]></description>
+			<enclosure length="7201034" type="audio/x-m4a" url="http://traffic.libsyn.com/essentialcomm/Pursuing-Promotion.m4a" />
+			<itunes:duration>14:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Get that promotion you've been chasing]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Managing Up</title>
+			<pubDate>Wed, 06 Aug 2014 19:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[3456c1733901083415d3a4de3d136e0b]]></guid>
+			<link><![CDATA[http://essentialcomm.libsyn.com/managing-up]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/c/6/4/2c64fbac7b6ff336/EC-podcast-cvr-1B.jpg" />
+			<description><![CDATA[<p><span class="Apple-style-span" style="border-collapse: separate; font-family: Arial; border-spacing: 0px; font-size: medium;">We all want bosses who are sensitive to our needs. But savvy players know we need to manage our bosses at least as much as they manage us.</span></p>]]></description>
+			<enclosure length="5414899" type="audio/x-m4a" url="http://traffic.libsyn.com/essentialcomm/Managing-Up.m4a" />
+			<itunes:duration>10:49</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Five tips for managing your boss.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Personal Branding</title>
+			<pubDate>Wed, 09 Jul 2014 04:03:25 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[151bcc783d9845881c3848e16189fe0a]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/essentialcomm/Personal-Branding.m4a]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/c/6/4/2c64fbac7b6ff336/EC-podcast-cvr-1B.jpg" />
+			<description><![CDATA[<p><span class="Apple-style-span" style="border-collapse: separate; font-family: Arial; border-spacing: 0px; font-size: medium;">Each one of us has a personal brand. Every day we reinforce our brands consciously or unconsciously. The tools in this episode will help you craft your brand with intention. </span></p>]]></description>
+			<enclosure length="7386281" type="audio/x-m4a" url="http://traffic.libsyn.com/essentialcomm/Personal-Branding.m4a" />
+			<itunes:duration>14:50</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Are people perceiving you the way you want to be perceived?]]></itunes:subtitle>
+					</item>
+	</channel>
+</rss>
